@@ -1,1 +1,1 @@
-<h3>아아tygy</h3>
+console.log('hELLO wORLD');
